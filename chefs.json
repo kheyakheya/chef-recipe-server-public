@@ -6,21 +6,24 @@
         "yearsOfExperience": 10,
         "numberOfRecipes": 50,
         "likes": 5000,
-        "bio": "John Smith is a renowned chef with over 10 years of experience in the culinary world...",
+        "bio": "John Smith is a renowned chef with over 10 years of experience in the culinary world.He is a young talented professional..",
         "recipes": [
           {
+            "id":"001",
             "name": "Spicy Shrimp Linguine",
             "ingredients": "1 lb. linguine, 1 lb. shrimp, 2 tbsp. olive oil, 2 cloves garlic, crushed red pepper flakes, salt, pepper",
             "cookingMethod": "Cook linguine in salted water until al dente. In a separate pan, heat olive oil over medium-high heat. Add garlic and red pepper flakes and cook until fragrant. Add shrimp and cook until pink. Toss linguine with shrimp and sauce. Season with salt and pepper to taste.",
             "rating": 4.5
           },
           {
+            "id":"002",
             "name": "Grilled Ribeye Steak",
             "ingredients": "1 ribeye steak, 1 tbsp. olive oil, salt, pepper",
             "cookingMethod": "Preheat grill to high heat. Brush steak with olive oil and season with salt and pepper. Grill steak for 4-5 minutes per side for medium-rare. Let rest for 5 minutes before slicing and serving.",
             "rating": 4.8
           },
           {
+            "id":"003",
             "name": "Chocolate Lava Cake",
             "ingredients": "1/2 cup unsalted butter, 4 oz. semisweet chocolate, 2 eggs, 2 egg yolks, 1/4 cup sugar, 1/4 cup flour",
             "cookingMethod": "Preheat oven to 425°F. Grease four ramekins with butter and dust with cocoa powder. Melt butter and chocolate in a double boiler or microwave. In a separate bowl, beat eggs, egg yolks, and sugar until light and fluffy. Stir in chocolate mixture and flour. Divide batter evenly among ramekins. Bake for 12-14 minutes or until edges are set but centers are still soft. Serve immediately with vanilla ice cream.",
@@ -35,21 +38,24 @@
         "yearsOfExperience": 8,
         "numberOfRecipes": 30,
         "likes": 2500,
-        "bio": "Jane Doe is a talented chef with over 8 years of experience in the culinary industry...",
+        "bio": "Jane Doe is a talented chef with over 8 years of experience in the culinary industry.Doing great in this industry.She has a lot on knowledge about foods around the world",
         "recipes": [
           {
+            "id":"004",
             "name": "Chicken Piccata",
             "ingredients": "4 chicken breasts, 1/2 cup flour, salt, pepper, 2 tbsp. olive oil, 1/2 cup chicken broth, 1/4 cup lemon juice, 2 tbsp. capers",
             "cookingMethod": "Season chicken breasts with salt and pepper. Dredge in flour. Heat olive oil in a large skillet over medium-high heat. Add chicken and cook until golden brown on both sides. Remove chicken from pan. Add chicken broth, lemon juice, and capers to the pan. Simmer until sauce is reduced by half. Add chicken back to the pan and cook for 2-3 minutes. Serve with pasta or rice.",
             "rating": 4.6
           },
           {
+            "id":"005",
             "name": "Spicy Shrimp Linguine",
             "ingredients": "1 lb. linguine, 1 lb. shrimp, 2 tbsp. olive oil, 2 cloves garlic, crushed red pepper flakes, salt, pepper",
             "cookingMethod": "Cook linguine in salted water until al dente. In a separate pan, heat olive oil over medium-high heat. Add garlic and red pepper flakes and cook until fragrant. Add shrimp and cook until pink. Toss linguine with shrimp and sauce. Season with salt and pepper to taste.",
             "rating": 4.5
           },
           {
+            "id":"006",
             "name": "Grilled Ribeye Steak",
             "ingredients": "1 ribeye steak, 1 tbsp. olive oil, salt, pepper",
             "cookingMethod": "Preheat grill to high heat. Brush steak with olive oil and season with salt and pepper. Grill steak for 4-5 minutes per side for medium-rare. Let rest for 5 minutes before slicing and serving.",
@@ -63,9 +69,10 @@
         "yearsOfExperience": 9,
         "numberOfRecipes": 30,
         "likes": 2500,
-        "bio": "Kate is a talented chef with over 9 years of experience in the culinary industry...",
+        "bio": "Kate is a talented chef with over 9 years of experience in the culinary industry.Multi talented, energetic person..",
         "recipes": [
         { 
+          "id":"007",
         "name": "Roast chicken", 
         "ingredients": "whole chicken,olive oil, salt,pepper,lemon,garlic",
         "cookingMethod": "Preheat oven to 425°F. Rub the chicken with olive oil and season with salt and pepper. Stuff the cavity with lemon and garlic. Roast for 1 hour or until cooked through.", 
@@ -73,10 +80,18 @@
         },
         
         { 
+            "id":"008",
             "name": "Spaghetti and meatballs", 
             "ingredients": "spaghetti, ground beef, bread crumbs, egg, onion, garlic, tomato sauce", 
             "cookingMethod": "Cook spaghetti according to package instructions. Mix ground beef, bread crumbs, egg, onion, and garlic in a bowl. Form into meatballs and cook in a pan until browned on all sides. Add tomato sauce and simmer until meatballs are cooked through. Serve over spaghetti with parmesan cheese.", 
             "rating": 4.3 
+        },
+        { 
+          "id":"009",
+        "name": "Roast chicken", 
+        "ingredients": "whole chicken,olive oil, salt,pepper,lemon,garlic",
+        "cookingMethod": "Preheat oven to 425°F. Rub the chicken with olive oil and season with salt and pepper. Stuff the cavity with lemon and garlic. Roast for 1 hour or until cooked through.", 
+        "rating": 4.7 
         }
             ]
         },
@@ -87,9 +102,10 @@
         "yearsOfExperience": 5,
         "numberOfRecipes": 20,
         "likes": 500,
-        "bio": "Bratty Alan is a talented chef with over 5 years of experience in the culinary industry...",
+        "bio": "Bratty Alan is a talented chef with over 5 years of experience in the culinary industry.Always Improvising and taking challenges",
         "recipes": [
         { 
+        "id":"0010",
         "name": "Fried chicken", 
         "ingredients": "whole chicken,olive oil, salt,pepper,lemon,garlic",
         "cookingMethod": "Mix everything well. Rub the chicken with olive oil and season with salt and pepper. Stuff the cavity with lemon and garlic. Roast for 1 hour or until cooked through.", 
@@ -97,10 +113,18 @@
         },
         
         { 
+          "id":"0011",
             "name": "Soup and meatballs", 
             "ingredients": "lemmon, ground beef, bread crumbs, egg, onion, garlic, tomato sauce", 
             "cookingMethod": "Cook water according to package instructions. Mix ground beef, bread crumbs, egg, onion, and garlic in a bowl. Form into meatballs and cook in a pan until browned on all sides. Add tomato sauce and simmer until meatballs are cooked through. Serve over spaghetti with parmesan cheese.", 
             "rating": 4.3 
+        },
+        { 
+        "id":"0012",
+        "name": "Chicken Potato Roast ", 
+        "ingredients": "Potato, whole chicken, Lemon, olive oil, salt,pepper,lemon,garlic",
+        "cookingMethod": "Mix everything well. Rub the chicken with olive oil and season with salt and pepper. Stuff the cavity with lemon and garlic. Roast for 1 hour or until cooked through.", 
+        "rating": 4.2 
         }
             ]
 },
@@ -114,19 +138,22 @@
         "bio": "John is a young talented chef with over 3 years of experience in the culinary industry...",
         "recipes": [
         { 
+         "id":"0013",
         "name": "Chicken Perry Perry", 
         "ingredients": "whole chicken, Lemon, olive oil, salt,pepper,lemon,garlic",
         "cookingMethod": "Mix everything well. Rub the chicken with olive oil and season with salt and pepper. Stuff the cavity with lemon and garlic. Roast for 1 hour or until cooked through.", 
         "rating": 4.2 
         },
         
-        {
+        {   
+            "id":"0014",
             "name": "Grilled  Steak",
             "ingredients": "2 ribeye steak, 4 tbsp. olive oil, salt, pepper",
             "cookingMethod": "Cook grill to high heat. Brush steak with olive oil and season with salt and pepper. Grill steak for 4-5 minutes per side for medium-rare. Let rest for 5 minutes before slicing and serving.",
             "rating": 4.2
           },
           {
+            "id":"0015",
             "name": "Shrimp with Linguine",
             "ingredients": "1 lb. linguine, 1 lb. shrimp, 2 tbsp. olive oil, 2 cloves garlic, crushed red pepper flakes, salt, pepper",
             "cookingMethod": "Cook linguine in salted water until al dente. In a separate pan, heat olive oil over medium-high heat. Add garlic and red pepper flakes and cook until fragrant. Add shrimp and cook until pink. Toss linguine with shrimp and sauce. Season with salt and pepper to taste.",
