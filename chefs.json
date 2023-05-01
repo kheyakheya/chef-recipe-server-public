@@ -1,7 +1,7 @@
  [
       {
         "id": "111",
-        "chefPicture": "https://example.com/chef1.jpg",
+        "chefPicture": "https://as1.ftcdn.net/v2/jpg/01/36/99/40/1000_F_136994095_4KL6PNdNMofROJVTzVqfxaiMUx2bEQE8.jpg",
         "chefName": "John Smith",
         "yearsOfExperience": 10,
         "numberOfRecipes": 50,
@@ -30,7 +30,7 @@
       },
       {
         "id":"222",
-        "chefPicture": "https://example.com/chef2.jpg",
+        "chefPicture": "https://as1.ftcdn.net/v2/jpg/01/36/99/40/1000_F_136994095_4KL6PNdNMofROJVTzVqfxaiMUx2bEQE8.jpg",
         "chefName": "Jane Doe",
         "yearsOfExperience": 8,
         "numberOfRecipes": 30,
@@ -58,7 +58,7 @@
       },
       { 
         "id":"333",
-        "chefPicture": "https://example.com/chef2.jpg",
+        "chefPicture": "https://as1.ftcdn.net/v2/jpg/01/36/99/40/1000_F_136994095_4KL6PNdNMofROJVTzVqfxaiMUx2bEQE8.jpg",
         "chefName": "Kate Doe",
         "yearsOfExperience": 9,
         "numberOfRecipes": 30,
@@ -82,7 +82,7 @@
         },
       { 
         "id":"444",
-        "chefPicture": "https://example.com/chef2.jpg",
+        "chefPicture": "https://as1.ftcdn.net/v2/jpg/01/36/99/40/1000_F_136994095_4KL6PNdNMofROJVTzVqfxaiMUx2bEQE8.jpg",
         "chefName": "Bratty Alan",
         "yearsOfExperience": 5,
         "numberOfRecipes": 20,
