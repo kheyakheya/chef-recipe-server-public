@@ -105,19 +105,19 @@
             ]
 },
       { 
-        "id":"444",
-        "chefPicture": "https://example.com/chef2.jpg",
-        "chefName": "Bratty Alan",
-        "yearsOfExperience": 5,
-        "numberOfRecipes": 20,
-        "likes": 500,
-        "bio": "Bratty Alan is a talented chef with over 5 years of experience in the culinary industry...",
+        "id":"555",
+        "chefPicture": "https://as1.ftcdn.net/v2/jpg/01/36/99/40/1000_F_136994095_4KL6PNdNMofROJVTzVqfxaiMUx2bEQE8.jpg",
+        "chefName": "John Paul",
+        "yearsOfExperience": 3,
+        "numberOfRecipes": 10,
+        "likes": 1000,
+        "bio": "John is a young talented chef with over 3 years of experience in the culinary industry...",
         "recipes": [
         { 
-        "name": "Fried chicken", 
-        "ingredients": "whole chicken,olive oil, salt,pepper,lemon,garlic",
+        "name": "Chicken Perry Perry", 
+        "ingredients": "whole chicken, Lemon, olive oil, salt,pepper,lemon,garlic",
         "cookingMethod": "Mix everything well. Rub the chicken with olive oil and season with salt and pepper. Stuff the cavity with lemon and garlic. Roast for 1 hour or until cooked through.", 
-        "rating": 4.8 
+        "rating": 4.2 
         },
         
         {
