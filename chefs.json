@@ -150,7 +150,7 @@
             "name": "Grilled  Steak",
             "ingredients": "2 ribeye steak, 4 tbsp. olive oil, salt, pepper",
             "cookingMethod": "Cook grill to high heat. Brush steak with olive oil and season with salt and pepper. Grill steak for 4-5 minutes per side for medium-rare. Let rest for 5 minutes before slicing and serving.",
-            "rating": 4.2
+            "rating": 4.4
           },
           {
             "id":"0015",
@@ -166,7 +166,7 @@
         "chefPicture": "https://t3.ftcdn.net/jpg/03/35/63/86/240_F_335638623_SkUiPT8btwia2G437NGHZXxGJ294BJwU.jpg",
         "chefName": "Matt Glen",
         "yearsOfExperience": 4,
-        "numberOfRecipes": 10,
+        "numberOfRecipes": 14,
         "likes": 1500,
         "bio": "Matt is a young talented chef with over 4 years of experience in the culinary industry...",
         "recipes": [
